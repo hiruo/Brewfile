@@ -7,6 +7,7 @@ brew brew-cask
 
 ## caskroom/versions
 tap caskroom/versions
+cask firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
