@@ -4,7 +4,12 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask alfred
+cask bettertouchtool
+cask dash
 cask iterm2
+cask karabiner
+cask seil
 
 ## caskroom/versions
 tap caskroom/versions
