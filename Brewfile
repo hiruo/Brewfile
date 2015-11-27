@@ -11,6 +11,8 @@ cask dash
 cask google-japanese-ime
 cask iterm2
 cask karabiner
+cask night-owl
+cask path-finder
 cask seil
 cask sequel-pro
 cask slack
@@ -22,6 +24,13 @@ cask firefox-ja
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew nkf
+brew the_silver_searcher
+brew tmux
+brew tree
+brew vim
 
 # App Store applications
 appstore GarageBand
