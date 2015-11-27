@@ -27,6 +27,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew nkf
+brew nvm
 brew the_silver_searcher
 brew tmux
 brew tree
