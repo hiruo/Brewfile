@@ -26,6 +26,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew fswatch
 brew nkf
 brew nvm
 brew the_silver_searcher
