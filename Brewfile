@@ -29,6 +29,8 @@ brew brew-file
 brew fswatch
 brew nkf
 brew nvm
+brew perl-build
+brew plenv
 brew the_silver_searcher
 brew tmux
 brew tree
