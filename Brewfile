@@ -27,6 +27,7 @@ brew brew-file
 
 # Other Homebrew packages
 brew fswatch
+brew ngrok
 brew nkf
 brew nvm
 brew perl-build
